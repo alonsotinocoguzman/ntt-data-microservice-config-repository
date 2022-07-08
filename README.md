@@ -1,1 +1,2 @@
-# ntt-data-microservice-config-repository
+Microservicio de configuracion
+  Este proyecto contiene la configuracion del config service
