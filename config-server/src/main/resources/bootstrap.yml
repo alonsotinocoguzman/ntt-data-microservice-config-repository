@@ -3,10 +3,12 @@ server:
 spring:
   security:
     user:
-      name: nttdata
-      password: nttd4t4
+      name: prueba
+      password: Pru3b4
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/alonsotinocoguzman/ntt-data-microservice-config-repository.git
+          uri: https://github.com/alexbalza/config-repository.git
+          username: nttdata
+          password: nttd4t4
